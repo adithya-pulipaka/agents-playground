@@ -1,0 +1,13 @@
+Productivity Tips for Developers
+
+1. Time blocking: Schedule focused coding sessions in 90-minute blocks. Avoid context switching during these windows.
+
+2. The two-minute rule: If a task takes less than two minutes, do it immediately rather than adding it to a backlog.
+
+3. Daily shutdown ritual: At the end of each workday, write down the three most important tasks for tomorrow. This clears your mind and gives you a clear starting point.
+
+4. Async communication by default: Prefer written updates over meetings when real-time collaboration isn't needed. This protects deep work time.
+
+5. Automate repetitive tasks early: If you do something more than three times, write a script. The upfront investment pays off quickly.
+
+6. Inbox zero isn't the goal: Process email twice a day at fixed times. A cluttered inbox is less harmful than constant interruption.

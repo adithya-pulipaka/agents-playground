@@ -1,0 +1,13 @@
+AI Trends in 2025
+
+Agentic AI systems have moved from research prototypes to production deployments. Companies are building fleets of specialized agents that collaborate on complex tasks rather than relying on a single general-purpose model.
+
+Multimodal capabilities are now standard. Leading models can process text, images, audio, and video in a single context window, enabling use cases that were impossible just two years ago.
+
+Inference costs have dropped dramatically. Running a capable model is now affordable for individual developers, which has fueled an explosion of personal and hobby AI projects.
+
+Context windows have expanded to millions of tokens. This shifts the design challenge from "how do I fit my data into the context" to "how do I structure long contexts effectively."
+
+On-device models are increasingly viable. Smaller, distilled models running locally on laptops and phones are enabling privacy-preserving applications that don't require sending data to external APIs.
+
+The dominant challenge has shifted from model capability to reliability and evaluation — knowing whether your agent actually did what you asked it to do.
