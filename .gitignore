@@ -19,6 +19,9 @@ env/
 credentials.json
 token.json
 
+# ChromaDB local vector store — contains personal data
+chroma_data/
+
 # ADK
 .adk/
 
